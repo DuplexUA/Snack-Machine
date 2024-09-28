@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "root": {
+    "ref": "1",
+    "type": "pallet#0"
+  },
+  "objects": {
+    "1": {
+      "barcode": "Duplex.SnackMachine",
+      "title": "Snack Machine",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Duplex",
+      "version": "2.4.0",
+      "sdkVersion": "1.2.0",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "2",
+          "type": "crate-spawnable#0"
+        }
+      ],
+      "dataCards": [
+        {
+          "ref": "3",
+          "type": "datacard-bonetag#0"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "pallet#0"
+      }
+    },
+    "2": {
+      "barcode": "Duplex.SnackMachine.Spawnable.SnackMachine",
+      "title": "Snack Machine",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "cd8bb314078d7e847b1b33e918162ccb"
+        }
+      ],
+      "mainAsset": "cf8e606b71588e9488f15343ba914b86",
+      "tags": [
+        "Prop",
+        "Gadget"
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.00463539362,
+          "y": 0.872788131,
+          "z": 0.130842119
+        },
+        "extents": {
+          "x": 0.3649885,
+          "y": 0.874512732,
+          "z": 0.339222819
+        }
+      },
+      "isa": {
+        "type": "crate-spawnable#0"
+      }
+    },
+    "3": {
+      "barcode": "Duplex.SnackMachine.BoneTag.SnackMachine",
+      "title": "Snack Machine",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [],
+      "isa": {
+        "type": "datacard-bonetag#0"
+      }
+    }
+  }
+}

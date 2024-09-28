@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SnackMachine_BoneTags
+  m_EditorClassIdentifier: 
+  m_GroupName: SnackMachine_BoneTags
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4e2f3dd3673cb744a9c7707a002e5a3e
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 67e2ad3c697878c46bf89efe88b65536, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e3acbc8b423358a4ba143cd329ecfa7a, type: 2}
+    - {fileID: 11400000, guid: 7a13523a9a698654e889136838a98876, type: 2}
+    - {fileID: 11400000, guid: 2a9852e0d61607d43ba373009857f9e4, type: 2}
