@@ -12,8 +12,8 @@
       "unlockable": false,
       "redacted": false,
       "author": "Duplex",
-      "version": "2.4.0",
-      "sdkVersion": "1.1.0",
+      "version": "2.5.0",
+      "sdkVersion": "1.2.0",
       "internal": false,
       "crates": [
         {
@@ -52,14 +52,14 @@
       ],
       "colliderBounds": {
         "center": {
-          "x": 0.004635483,
-          "y": 0.872790039,
-          "z": 0.1308369
+          "x": 0.00463539362,
+          "y": 0.872788131,
+          "z": 0.130842119
         },
         "extents": {
-          "x": 0.36498943,
-          "y": 0.8745147,
-          "z": 0.339229047
+          "x": 0.3649885,
+          "y": 0.874512732,
+          "z": 0.339222819
         }
       },
       "isa": {
